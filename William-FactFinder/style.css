@@ -17,7 +17,7 @@ main{
 }
 
 #factdisplay{
-	border: 5px solid black;
+	border: 5px dotted black;
 	border-radius: 10px;
 	padding: 10px;
 	margin:10px;
